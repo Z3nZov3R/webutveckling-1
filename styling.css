@@ -1,0 +1,58 @@
+body {
+background-color: red;
+
+}
+
+#titel {
+    font-size: 400%;
+}
+
+ul {
+    margin-left: 32%;
+    margin-top: -6%;
+}
+
+li {
+    float: left;
+    list-style-type: none;
+    width: 15%;
+    border: 2.5px solid black;
+    text-align: center;
+    background-color: white;
+}
+
+li:hover {
+    background-color: grey;
+    transition: 0.3s;
+}
+
+.menylank {
+    color: black;
+}
+
+#text {
+    margin-top: 10%;
+    margin-left: 25%;
+    width: 50%;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
+
+#text p {
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+footer {
+    border: 2.5px solid black;
+    height: 2.5%;
+    background-color: black;
+    margin-top: 20%;
+}
+
+#footertext {
+    color: white;
+    text-align: center;
+    margin-top: -0.1%;
+}
